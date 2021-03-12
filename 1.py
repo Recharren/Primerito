@@ -12,3 +12,7 @@ def sumador(n):
     print(f"El resultado es {l} + {l+l} + {l+l+l} = {resultado}")
 
 sumador(num)
+#prueba para git
+#prueba para git
+#prueba para git
+#prueba para git
